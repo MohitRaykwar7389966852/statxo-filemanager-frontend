@@ -1,0 +1,17 @@
+.dx-filemanager-container {
+    background-color: #90caf9;
+}
+
+.dx-filemanager-toolbar {
+    background-color: red;
+}
+
+.toast-success {
+    background: #32cd32;
+    color: white;
+  }
+  
+  .toast-error {
+    background: #fa8072;
+    color: white;
+  }
